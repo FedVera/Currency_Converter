@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="azure.core.http.okhttp" type="repository">
+    <properties maven-id="com.azure:azure-core-http-okhttp:1.8.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-http-okhttp-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/azure-core-1.27.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.13.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-xml-2.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/woodstox-core-6.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactor-core-3.4.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-boringssl-static-2.0.47.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-tcnative-classes-2.0.47.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okhttp-4.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/okio-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
